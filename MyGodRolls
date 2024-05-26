@@ -1,3 +1,4 @@
+// BRAVE WEAPONS
 // Midnight Coup (PVE): Champs / GM
 dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
 
@@ -16,6 +17,15 @@ dimwishlist:item=2763843899&perks=1820235745,2720533289
 // Luna's Howl (PVE)
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 
+// Luna's Howl Shiny (PVP)
+dimwishlist:item=3757612024&perks=3161816588,2720533289
+
+// Luna's Howl Shiny (PVE): Subsistence and magnificent howl together create a synergy that keeps the magnificent howl buff active, making the Luna's Howl a very effective weapon against all enemies in PVE.
+dimwishlist:item=3757612024&perks=1820235745,2720533289
+
+// Luna's Howl Shiny (PVE)
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+
 // The Mountaintop (PVE)
 dimwishlist:item=568611922&perks=3300816228,469285294
 
@@ -24,6 +34,15 @@ dimwishlist:item=568611922&perks=3300816228,1546637391
 
 // The Mountaintop (PVE)
 dimwishlist:item=568611922&perks=3300816228,4104185692
+
+// The Mountaintop Shiny (PVE)
+dimwishlist:item=4043921923&perks=3300816228,469285294
+
+// The Mountaintop Shiny (PVE)
+dimwishlist:item=4043921923&perks=3300816228,1546637391
+
+// The Mountaintop Shiny (PVE)
+dimwishlist:item=4043921923&perks=3300816228,4104185692
 
 // Hammerhead (PVE): Rewind rounds + Rampage + Onslaught + Killing Tally (Pinnacle roll): This is the absolute pinnacle end goal according to the speaker. It allows you to switch between different perks depending on the situation. You can choose between rewind rounds for a bigger magazine or Rampage for more damage. Onslaught and Killing Tally both further increase the damage output.
 dimwishlist:item=211732170&perks=3425386926,557221067
