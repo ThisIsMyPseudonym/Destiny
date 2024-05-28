@@ -54,6 +54,15 @@ dimwishlist:item=211732170&perks=3425386926,95528736
 dimwishlist:item=568611923&perks=968510818,3078487919
 
 // Edge Transit (PVE): Boss Damage
+dimwishlist:item=2228325504&perks=968510818,3194351027
+
+// Edge Transit (PVE): Boss Damage
+dimwishlist:item=2228325504&perks=3751912585,3194351027
+
+// Edge Transit (PVE): Boss Damage
+dimwishlist:item=2228325504&perks=3751912585,3078487919
+
+// Edge Transit (PVE): Boss Damage
 dimwishlist:item=568611923&perks=3751912585,3993379141
 
 // Edge Transit (PVE): Add clear
@@ -62,10 +71,19 @@ dimwishlist:item=568611923&perks=2396489472,2048641572
 // Edge Transit Shiny (PVE): Boss Damage
 dimwishlist:item=2228325504&perks=968510818,3078487919
 
-// Edge Transit Shiny (PVE): Boss Damage
+// Edge Transit Shiny  (PVE): Boss Damage
+dimwishlist:item=2228325504&perks=968510818,3194351027
+
+// Edge Transit Shiny  (PVE): Boss Damage
+dimwishlist:item=2228325504&perks=3751912585,3194351027
+
+// Edge Transit Shiny  (PVE): Boss Damage
+dimwishlist:item=2228325504&perks=3751912585,3078487919
+
+// Edge Transit Shiny  (PVE): Boss Damage
 dimwishlist:item=2228325504&perks=3751912585,3993379141
 
-// Edge Transit Shiny (PVE): Add clear
+// Edge Transit Shiny  (PVE): Add clear
 dimwishlist:item=2228325504&perks=2396489472,2048641572
 
 // Elsie's Rifle (PVP)
