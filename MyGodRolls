@@ -95,6 +95,15 @@ dimwishlist:item=2372514509&perks=2387244414,1015611457
 // Elsie's Rifle (PVE)
 dimwishlist:item=2372514509&perks=776531651,2048641572
 
+// Elsie's Rifle Shiny (PVP)
+dimwishlist:item=3661387068&perks=2387244414,460017080
+
+// Elsie's Rifle Shiny (PVP)
+dimwishlist:item=3661387068&perks=2387244414,1015611457
+
+// Elsie's Rifle Shiny (PVE)
+dimwishlist:item=3661387068&perks=776531651,2048641572
+
 // Falling Guillotine (PVE): Double damage
 dimwishlist:item=1815105249&perks=4104185692,3708227201
 
