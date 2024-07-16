@@ -1,0 +1,90 @@
+--- START OF FILE d2 wishlist ---
+// ------ SEASON 24 --------
+// ------ KINETIC SLOT --------
+// ------ SIDEARM --------
+"dimwishlist:item=423343404&perks=3722653512,2319119708,43555494",423343404,Sidearm,Adaptive Frame*,KineticSlot,Kinetic,legendaryengram,24 // CONTROLLING VISION (PVE)
+"dimwishlist:item=2328923181&perks=3523296417,2109543898,2838996248",2328923181,Sidearm,Heavy Burst*,KineticSlot,Strand,echoes,24 //  BREACHLIGHT (PVE)
+"dimwishlist:item=2328923181&perks=3523296417,4082225868,2838996248",2328923181,Sidearm,Heavy Burst*,KineticSlot,Strand,echoes,24 //  BREACHLIGHT (PVE)
+"dimwishlist:item=2328923181&perks=691659142,4082225868,2838996248",2328923181,Sidearm,Heavy Burst*,KineticSlot,Strand,echoes,24 //  BREACHLIGHT (PVE)
+"dimwishlist:item=2328923181&perks=923806249,831391274,2838996248",2328923181,Sidearm,Heavy Burst*,KineticSlot,Strand,echoes,24 //  BREACHLIGHT (PVE)
+"dimwishlist:item=2328923181&perks=3523296417,2109543898,2838996248",2328923181,Sidearm,Heavy Burst*,KineticSlot,Strand,echoes,24 //  BREACHLIGHT (PVE)
+"dimwishlist:item=2328923181&perks=691659142,2109543898,2838996248",2328923181,Sidearm,Heavy Burst*,KineticSlot,Strand,echoes,24 //  BREACHLIGHT (PVE)
+// ------ SCOUT RIFLE --------
+"dimwishlist:item=2249996761&perks=247725512,3038247973,2838996248",2249996761,Scout Rifle,Lightweight Frame*,KineticSlot,Kinetic,echoes,24 // PATRON OF LOST CAUSES (PVE)
+"dimwishlist:item=2249996761&perks=3400784728,3038247973,2838996248",2249996761,Scout Rifle,Lightweight Frame*,KineticSlot,Kinetic,echoes,24 // PATRON OF LOST CAUSES (PVE)
+"dimwishlist:item=198854575&perks=588594999,3673922083,3989629871",198854575,Hand Cannon,Aggressive Frame*,KineticSlot,Kinetic,ironbanner,24 // CRIMIL'S DAGGER (PVP)
+"dimwishlist:item=198854575&perks=1168162263,1015611457,3989629871",198854575,Hand Cannon,Aggressive Frame*,KineticSlot,Kinetic,ironbanner,24 // CRIMIL'S DAGGER (PVP)
+"dimwishlist:item=198854575&perks=588594999,555281244,3989629871",198854575,Hand Cannon,Aggressive Frame*,KineticSlot,Kinetic,ironbanner,24 // CRIMIL'S DAGGER (PVP)
+// ------ SUBMACHINE GUN --------
+"dimwishlist:item=3959549446&perks=3418782618,124408337,2839173408",3959549446,Submachine Gun,Lightweight Frame*,KineticSlot,Stasis,legendaryengram,24 // YAROVIT MG4 (PVE)
+"dimwishlist:item=3959549446&perks=3418782618,2109543898,2839173408",3959549446,Submachine Gun,Lightweight Frame*,KineticSlot,Stasis,legendaryengram,24 // YAROVIT MG4 (PVE)
+// ------ AUTO RIFLE --------
+"dimwishlist:item=2826850739&perks=3523296417,3891536761,744217850",2826850739,Auto Rifle,Precision Frame*,KineticSlot,Kinetic,strikes,24 // ORIGIN STORY (PVE)
+"dimwishlist:item=2826850739&perks=880644845,3891536761,744217850",2826850739,Auto Rifle,Precision Frame*,KineticSlot,Kinetic,strikes,24 // ORIGIN STORY (PVE)
+// ------ GRENADE LAUNCHER --------
+"dimwishlist:item=1218113510&perks=968510818,2396489472,3989629871",1218113510,Grenade Launcher,Wave Frame*,KineticSlot,Strand,ironbanner,23 // TUSK OFTHE BOAR (PVE)
+"dimwishlist:item=1218113510&perks=2039302152,2396489472,3989629871",1218113510,Grenade Launcher,Wave Frame*,KineticSlot,Strand,ironbanner,23 // TUSK OFTHE BOAR (PVE)
+"dimwishlist:item=1218113510&perks=923806249,2396489472,3989629871",1218113510,Grenade Launcher,Wave Frame*,KineticSlot,Strand,ironbanner,23 // TUSK OFTHE BOAR (PVE)
+// ------ ENERGY --------
+// ------ SIDEARM --------
+"dimwishlist:item=2566006935&perks=4071163871,776531651,4008116374",2566006935,Sidearm,Rapid-Fire Frame*,Energy,Void,legendaryengram,19 // FIORITURA-59 (PVE)
+// ------ HAND CANNON --------
+"dimwishlist:item=1246793994&perks=776531651,2048641572,2839173408",1246793994,Hand Cannon,Heavy Burst*,Energy,Void,legendaryengram,24 // MAAHES HC4 (PVE)
+"dimwishlist:item=1246793994&perks=247725512,2848615171,2839173408",1246793994,Hand Cannon,Heavy Burst*,Energy,Void,legendaryengram,24 // MAAHES HC4 (PVE)
+// ------ SHOTGUN --------
+"dimwishlist:item=499245245&perks=4071163871,2173046394,1050127423",499245245,Shotgun,Lightweight Frame*,Energy,Arc,legendaryengram,24 // DED GRAMARYE IV (PVE)
+"dimwishlist:item=499245245&perks=4071163871,2396489472,1050127423",499245245,Shotgun,Lightweight Frame*,Energy,Arc,legendaryengram,24 // DED GRAMARYE IV (PVE)
+// ------ SNIPER RIFLE --------
+"dimwishlist:item=2800870005&perks=3250034553,1820235745,4293542123,2509860981",2800870005,Sniper Rifle,Adaptive Frame*,Energy,Solar,legendaryengram,24 // THE DOMINO (PVE)
+"dimwishlist:item=2800870005&perks=3643424744,4293542123,2509860981",2800870005,Sniper Rifle,Adaptive Frame*,Energy,Solar,legendaryengram,24 // THE DOMINO (PVE)
+"dimwishlist:item=3610521673&perks=1354429876,555281244,1281216113",3610521673,Sniper Rifle,Adaptive Frame*,Energy,Solar,nightfall,24 // UZUME RR4 (ADEPT) (PVE)
+"dimwishlist:item=3610521673&perks=1354429876,1546637391,1281216113",3610521673,Sniper Rifle,Adaptive Frame*,Energy,Solar,nightfall,24 // UZUME RR4 (ADEPT) (PVE)
+"dimwishlist:item=3610521673&perks=2284787283,1546637391,1281216113",3610521673,Sniper Rifle,Adaptive Frame*,Energy,Solar,nightfall,24 // UZUME RR4 (ADEPT) (PVE)
+// ------ AUTO RIFLE --------
+"dimwishlist:item=1056103557&perks=1583705720,2173046394,1281216113",1056103557,Auto Rifle,Precision Frame*,Energy,Arc,nightfall,24 // SHADOW PRICE (PVE)
+"dimwishlist:item=1056103557&perks=3436462433,2173046394,1281216113",1056103557,Auto Rifle,Precision Frame*,Energy,Arc,nightfall,24 // SHADOW PRICE (PVE)
+// ------ POWER --------
+// ------ LINEAR FUSION RIFLE --------
+"dimwishlist:item=3615421669&perks=968510818,1354429876,3988215619",3615421669,Linear Fusion Rifle,Precision Frame*,Power,Stasis,legendaryengram,24 // SUSPECTUM-4FR (PVE) 39 SHOTS
+"dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619",3615421669,Linear Fusion Rifle,Precision Frame*,Power,Stasis,legendaryengram,24 // SUSPECTUM-4FR (PVE) FIRE FRIENDS
+"dimwishlist:item=3615421669&perks=968510818,2978966579,3988215619",3615421669,Linear Fusion Rifle,Precision Frame*,Power,Stasis,legendaryengram,24 // SUSPECTUM-4FR (PVE) FREEZE CHAMPS
+// ------ SEASON 23 --------
+// ------ KINETIC SLOT --------
+// ------ HAND CANNON --------
+"dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594",2763843898,Hand Cannon,Adaptive Frame*,KineticSlot,Kinetic,brave,23 // Midnight Coup (PVE): Champs / GM
+"dimwishlist:item=2763843898&perks=3038247973,4049631843,2489430594",2763843898,Hand Cannon,Adaptive Frame*,KineticSlot,Kinetic,brave,23 // Midnight Coup (PVE)
+"dimwishlist:item=2763843898&perks=3038247973,2387244414,2489430594",2763843898,Hand Cannon,Adaptive Frame*,KineticSlot,Kinetic,brave,23 // Midnight Coup (PVP)
+// ------ GRENADE LAUNCHER --------
+"dimwishlist:item=4043921923&perks=3300816228,469285294",4043921923,Grenade Launcher,Micro-Missile Frame*,KineticSlot,Kinetic,brave,23 // The Mountaintop Shiny (PVE)
+"dimwishlist:item=4043921923&perks=3300816228,1546637391",4043921923,Grenade Launcher,Micro-Missile Frame*,KineticSlot,Kinetic,brave,23 // The Mountaintop Shiny (PVE)
+"dimwishlist:item=4043921923&perks=3300816228,4104185692",4043921923,Grenade Launcher,Micro-Missile Frame*,KineticSlot,Kinetic,brave,23 // The Mountaintop Shiny (PVE)
+// ------ SCOUT RIFLE --------
+"dimwishlist:item=1453235079&perks=3891536761,3824105627",1453235079,Scout Rifle,Precision Frame*,KineticSlot,Kinetic,brave,23 // Hung Jury SR4 (PVE)
+"dimwishlist:item=1453235079&perks=3891536761,3751912585",1453235079,Scout Rifle,Precision Frame*,KineticSlot,Kinetic,brave,23 // Hung Jury SR4 (PVE)
+"dimwishlist:item=1453235079&perks=3891536761,4049631843",1453235079,Scout Rifle,Precision Frame*,KineticSlot,Kinetic,brave,23 // Hung Jury SR4 (PVE)
+// ------ ENERGY --------
+// ------ HAND CANNON --------
+"dimwishlist:item=2763843899&perks=3161816588,2720533289",2763843899,Hand Cannon,Precision Frame*,Energy,Solar,brave,23 // Luna's Howl (PVP)
+"dimwishlist:item=2763843899&perks=1820235745,2720533289",2763843899,Hand Cannon,Precision Frame*,Energy,Solar,brave,23 // Luna's Howl (PVE): Subsistence and magnificent howl together create a synergy that keeps the magnificent howl buff active, making the Luna's Howl a very effective weapon against all enemies in PVE.
+"dimwishlist:item=2763843899&perks=3017780555,4293542123",2763843899,Hand Cannon,Precision Frame*,Energy,Solar,brave,23 // Luna's Howl (PVE)
+"dimwishlist:item=3757612024&perks=3161816588,2720533289",3757612024,Hand Cannon,Precision Frame*,Energy,Solar,brave,23 // Luna's Howl Shiny (PVP)
+"dimwishlist:item=3757612024&perks=1820235745,2720533289",3757612024,Hand Cannon,Precision Frame*,Energy,Solar,brave,23 // Luna's Howl Shiny (PVE): Subsistence and magnificent howl together create a synergy that keeps the magnificent howl buff active, making the Luna's Howl a very effective weapon against all enemies in PVE.
+"dimwishlist:item=3757612024&perks=3017780555,4293542123",3757612024,Hand Cannon,Precision Frame*,Energy,Solar,brave,23 // Luna's Howl Shiny (PVE)
+// ------ GRENADE LAUNCHER --------
+"dimwishlist:item=568611921&perks=3523296417,2396489472",568611921,Grenade Launcher,Wave Frame*,Energy,Arc,brave,23 // Forbearance (PVE): Adds and grenades
+"dimwishlist:item=568611921&perks=3592538738",568611921,Grenade Launcher,Wave Frame*,Energy,Arc,brave,23 // Forbearance (PVE): Fast Frenzy
+"dimwishlist:item=568611921&perks=3523296417,3592538738",568611921,Grenade Launcher,Wave Frame*,Energy,Arc,brave,23 // Forbearance (PVE)
+"dimwishlist:item=568611921&perks=2010801679,2396489472",568611921,Grenade Launcher,Wave Frame*,Energy,Arc,brave,23 // Forbearance (PVE)
+// ------ PULSE RIFLE --------
+"dimwishlist:item=2372514509&perks=2387244414,460017080",2372514509,Pulse Rifle,High-Impact Frame*,Energy,Void,brave,23 // Elsie's Rifle (PVP)
+"dimwishlist:item=2372514509&perks=2387244414,1015611457",2372514509,Pulse Rifle,High-Impact Frame*,Energy,Void,brave,23 // Elsie's Rifle (PVP)
+"dimwishlist:item=2372514509&perks=776531651,2048641572",2372514509,Pulse Rifle,High-Impact Frame*,Energy,Void,brave,23 // Elsie's Rifle (PVE)
+// ------ SUBMACHINE GUN --------
+"dimwishlist:item=1050806815&perks=776531651,3081867624",1050806815,Submachine Gun,Lightweight Frame*,Energy,Void,brave,23 // The Recluse (PVE)
+"dimwishlist:item=1050806815&perks=776531651,2048641572",1050806815,Submachine Gun,Lightweight Frame*,Energy,Void,brave,23 // The Recluse (PVE)
+"dimwishlist:item=1050806815&perks=776531651,2109543898",1050806815,Submachine Gun,Lightweight Frame*,Energy,Void,brave,23 // The Recluse (PVE)
+"dimwishlist:item=1050806815&perks=776531651,4104185692",1050806815,Submachine Gun,Lightweight Frame*,Energy,Void,brave,23 // The Recluse (PVE): Easy
+// ------ POWER --------
+// ------ MACHINE GUN --------
+"dimwishlist:item=1896309757&perks=3425386926,557221067",1896309757,Machine Gun,Adaptive Frame*,Power,Void,brave,23 // Hammerhead (PVE): Rewind rounds + Rampage + Onslaught + Killing Tally (Pinnacle roll): This is the absolute pinnacle end goal according to the speaker. It allows you to switch between different perks depending on the situation. You can choose between rewind rounds for a bigger magazine or Rampage for more damage. Onslaught and Killing Tally both further increase the damage output.
+"dimwishlist:item=1896309757&perks=3425386926,95528736",1896309757,Machine Gun,Adaptive Frame*,Power,Void,brave,23 // Hammerhead (PVE): Rewind rounds + Rampage + Onslaught + Killing Tally (Pinnacle ro
